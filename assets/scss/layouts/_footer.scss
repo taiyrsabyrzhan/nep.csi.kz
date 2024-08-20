@@ -1,0 +1,44 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid var(--blueMedium);
+    padding-top: 40px;
+    padding-bottom: 60px;
+
+    &_logo {
+        width: 10%;
+    }
+    &_text {
+        width: 30%;
+        address {
+            padding-top: 20px;
+            font-style: normal;
+            line-height: 24px;
+            p {
+                margin-bottom: 5px;
+            }
+        }
+    }
+    &_links {
+        width: 55%;
+        // display: flex;
+        // flex-wrap: wrap;
+        color: var(--blueLight);
+        font-size: 12px;
+        a {
+            width: 30%;
+            display: inline-flex;
+            align-items: center;
+            margin-right: 20px;
+            margin-bottom: 15px;
+            svg {
+                padding-right: 10px;
+            }
+        }
+    }
+    &_social {
+        width: 5%;
+        display: flex;
+        justify-content: space-between;
+    }
+}

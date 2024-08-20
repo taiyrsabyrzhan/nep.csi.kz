@@ -1,0 +1,23 @@
+:root {
+  --blueBold: #0B52A0;
+  --blueMedium: #0E69B0;
+  --blueLight: #4DC7F2;
+  --blueSky: #E8F5FE;
+  --white: #ffffff;
+  --black: #252525;
+  --padding: 40px 5%;
+}
+
+
+/***	Adaptiv		***/
+@include adaptive-1800 {}
+
+@include adaptive-1400 {}
+
+@include adaptive-1200 {}
+
+@include adaptive-992 {}
+
+@include adaptive-768 {}
+
+@include adaptive-576 {}

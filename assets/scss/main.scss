@@ -1,0 +1,17 @@
+@charset "UTF-8";
+// Base
+@import "base/breakpoints";
+@import "base/var";
+@import "base/reset";
+
+// Layouts
+@import "layouts/header";
+@import "layouts/footer";
+
+
+// Page
+@import "pages/index";
+@import "pages/about";
+@import "pages/contacts";
+@import "pages/mix_pages";
+

@@ -1,0 +1,86 @@
+[
+  {
+    "name": "about___en",
+    "path": "/about",
+    "component": "D:\\\\Oralbek\\\\NEP\\\\nep\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "_name": "_c08f20e2"
+  },
+  {
+    "name": "contacts___en",
+    "path": "/contacts",
+    "component": "D:\\\\Oralbek\\\\NEP\\\\nep\\\\pages\\\\contacts.vue",
+    "chunkName": "pages/contacts",
+    "_name": "_28c78941"
+  },
+  {
+    "name": "index___kz",
+    "path": "/kz",
+    "component": "D:\\\\Oralbek\\\\NEP\\\\nep\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_811f6b58"
+  },
+  {
+    "name": "index___ru",
+    "path": "/ru",
+    "component": "D:\\\\Oralbek\\\\NEP\\\\nep\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_811f6b58"
+  },
+  {
+    "name": "situation___en",
+    "path": "/situation",
+    "component": "D:\\\\Oralbek\\\\NEP\\\\nep\\\\pages\\\\situation.vue",
+    "chunkName": "pages/situation",
+    "_name": "_8f11ff00"
+  },
+  {
+    "name": "about___kz",
+    "path": "/kz/about",
+    "component": "D:\\\\Oralbek\\\\NEP\\\\nep\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "_name": "_c08f20e2"
+  },
+  {
+    "name": "contacts___kz",
+    "path": "/kz/contacts",
+    "component": "D:\\\\Oralbek\\\\NEP\\\\nep\\\\pages\\\\contacts.vue",
+    "chunkName": "pages/contacts",
+    "_name": "_28c78941"
+  },
+  {
+    "name": "situation___kz",
+    "path": "/kz/situation",
+    "component": "D:\\\\Oralbek\\\\NEP\\\\nep\\\\pages\\\\situation.vue",
+    "chunkName": "pages/situation",
+    "_name": "_8f11ff00"
+  },
+  {
+    "name": "about___ru",
+    "path": "/ru/about",
+    "component": "D:\\\\Oralbek\\\\NEP\\\\nep\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "_name": "_c08f20e2"
+  },
+  {
+    "name": "contacts___ru",
+    "path": "/ru/contacts",
+    "component": "D:\\\\Oralbek\\\\NEP\\\\nep\\\\pages\\\\contacts.vue",
+    "chunkName": "pages/contacts",
+    "_name": "_28c78941"
+  },
+  {
+    "name": "situation___ru",
+    "path": "/ru/situation",
+    "component": "D:\\\\Oralbek\\\\NEP\\\\nep\\\\pages\\\\situation.vue",
+    "chunkName": "pages/situation",
+    "_name": "_8f11ff00"
+  },
+  {
+    "name": "index___en",
+    "path": "/",
+    "component": "D:\\\\Oralbek\\\\NEP\\\\nep\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_811f6b58"
+  }
+]

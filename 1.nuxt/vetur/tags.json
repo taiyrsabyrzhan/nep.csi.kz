@@ -1,0 +1,23 @@
+{
+  "AboutCharts": {
+    "description": "Auto imported from components/about/about-charts.vue"
+  },
+  "AboutGallery": {
+    "description": "Auto imported from components/about/about-gallery.vue"
+  },
+  "AboutText": {
+    "description": "Auto imported from components/about/about-text.vue"
+  },
+  "MainProgram": {
+    "description": "Auto imported from components/main/main-program.vue"
+  },
+  "MainSlider": {
+    "description": "Auto imported from components/main/main-slider.vue"
+  },
+  "MainTable": {
+    "description": "Auto imported from components/main/main-table.vue"
+  },
+  "ChartsLineChart": {
+    "description": "Auto imported from components/charts/line-chart.vue"
+  }
+}
